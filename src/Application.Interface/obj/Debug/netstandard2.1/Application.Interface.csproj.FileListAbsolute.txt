@@ -1,0 +1,13 @@
+C:\Users\zaino\Documents\Visual Studio 2022\Projects\IS.LoanApplication.WebApi\src\Application.Interface\bin\Debug\netstandard2.1\Application.Interface.deps.json
+C:\Users\zaino\Documents\Visual Studio 2022\Projects\IS.LoanApplication.WebApi\src\Application.Interface\bin\Debug\netstandard2.1\Application.Interface.dll
+C:\Users\zaino\Documents\Visual Studio 2022\Projects\IS.LoanApplication.WebApi\src\Application.Interface\bin\Debug\netstandard2.1\Application.Interface.pdb
+C:\Users\zaino\Documents\Visual Studio 2022\Projects\IS.LoanApplication.WebApi\src\Application.Interface\bin\Debug\netstandard2.1\Application.Model.dll
+C:\Users\zaino\Documents\Visual Studio 2022\Projects\IS.LoanApplication.WebApi\src\Application.Interface\bin\Debug\netstandard2.1\Application.Model.pdb
+C:\Users\zaino\Documents\Visual Studio 2022\Projects\IS.LoanApplication.WebApi\src\Application.Interface\obj\Debug\netstandard2.1\Application.Interface.csproj.AssemblyReference.cache
+C:\Users\zaino\Documents\Visual Studio 2022\Projects\IS.LoanApplication.WebApi\src\Application.Interface\obj\Debug\netstandard2.1\Application.Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zaino\Documents\Visual Studio 2022\Projects\IS.LoanApplication.WebApi\src\Application.Interface\obj\Debug\netstandard2.1\Application.Interface.AssemblyInfoInputs.cache
+C:\Users\zaino\Documents\Visual Studio 2022\Projects\IS.LoanApplication.WebApi\src\Application.Interface\obj\Debug\netstandard2.1\Application.Interface.AssemblyInfo.cs
+C:\Users\zaino\Documents\Visual Studio 2022\Projects\IS.LoanApplication.WebApi\src\Application.Interface\obj\Debug\netstandard2.1\Application.Interface.csproj.CoreCompileInputs.cache
+C:\Users\zaino\Documents\Visual Studio 2022\Projects\IS.LoanApplication.WebApi\src\Application.Interface\obj\Debug\netstandard2.1\Application.Interface.csproj.CopyComplete
+C:\Users\zaino\Documents\Visual Studio 2022\Projects\IS.LoanApplication.WebApi\src\Application.Interface\obj\Debug\netstandard2.1\Application.Interface.dll
+C:\Users\zaino\Documents\Visual Studio 2022\Projects\IS.LoanApplication.WebApi\src\Application.Interface\obj\Debug\netstandard2.1\Application.Interface.pdb

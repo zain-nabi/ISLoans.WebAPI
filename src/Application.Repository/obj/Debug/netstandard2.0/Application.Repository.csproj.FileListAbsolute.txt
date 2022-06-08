@@ -1,0 +1,15 @@
+C:\Users\zaino\Documents\Visual Studio 2022\Projects\IS.LoanApplication.WebApi\src\Application.Repository\obj\Debug\netstandard2.0\Application.Repository.csproj.AssemblyReference.cache
+C:\Users\zaino\Documents\Visual Studio 2022\Projects\IS.LoanApplication.WebApi\src\Application.Repository\obj\Debug\netstandard2.0\Application.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zaino\Documents\Visual Studio 2022\Projects\IS.LoanApplication.WebApi\src\Application.Repository\obj\Debug\netstandard2.0\Application.Repository.AssemblyInfoInputs.cache
+C:\Users\zaino\Documents\Visual Studio 2022\Projects\IS.LoanApplication.WebApi\src\Application.Repository\obj\Debug\netstandard2.0\Application.Repository.AssemblyInfo.cs
+C:\Users\zaino\Documents\Visual Studio 2022\Projects\IS.LoanApplication.WebApi\src\Application.Repository\obj\Debug\netstandard2.0\Application.Repository.csproj.CoreCompileInputs.cache
+C:\Users\zaino\Documents\Visual Studio 2022\Projects\IS.LoanApplication.WebApi\src\Application.Repository\bin\Debug\netstandard2.0\Application.Repository.deps.json
+C:\Users\zaino\Documents\Visual Studio 2022\Projects\IS.LoanApplication.WebApi\src\Application.Repository\bin\Debug\netstandard2.0\Application.Repository.dll
+C:\Users\zaino\Documents\Visual Studio 2022\Projects\IS.LoanApplication.WebApi\src\Application.Repository\bin\Debug\netstandard2.0\Application.Repository.pdb
+C:\Users\zaino\Documents\Visual Studio 2022\Projects\IS.LoanApplication.WebApi\src\Application.Repository\bin\Debug\netstandard2.0\Application.Interface.dll
+C:\Users\zaino\Documents\Visual Studio 2022\Projects\IS.LoanApplication.WebApi\src\Application.Repository\bin\Debug\netstandard2.0\Application.Model.dll
+C:\Users\zaino\Documents\Visual Studio 2022\Projects\IS.LoanApplication.WebApi\src\Application.Repository\bin\Debug\netstandard2.0\Application.Interface.pdb
+C:\Users\zaino\Documents\Visual Studio 2022\Projects\IS.LoanApplication.WebApi\src\Application.Repository\bin\Debug\netstandard2.0\Application.Model.pdb
+C:\Users\zaino\Documents\Visual Studio 2022\Projects\IS.LoanApplication.WebApi\src\Application.Repository\obj\Debug\netstandard2.0\Application.Repository.csproj.CopyComplete
+C:\Users\zaino\Documents\Visual Studio 2022\Projects\IS.LoanApplication.WebApi\src\Application.Repository\obj\Debug\netstandard2.0\Application.Repository.dll
+C:\Users\zaino\Documents\Visual Studio 2022\Projects\IS.LoanApplication.WebApi\src\Application.Repository\obj\Debug\netstandard2.0\Application.Repository.pdb
